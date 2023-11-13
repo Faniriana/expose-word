@@ -1,0 +1,9 @@
+@media(max-width:320px){
+    body nav.w3-container div.w3-row>div{
+        left: 8%;
+    }
+    .w3-container .w3-row:nth-child(2) .w3-row img{
+        left: 8%;
+        width: 10px;
+    }
+    }
